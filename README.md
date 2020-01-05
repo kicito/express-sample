@@ -1,4 +1,4 @@
-# a very simple example of express application.
+# A very simple example of express application
 
 for skype call with n. ko
 
